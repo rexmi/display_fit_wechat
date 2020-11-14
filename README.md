@@ -16,10 +16,10 @@
 * workout is the only working feature
 * the other 7 sports would trigger a ballot event to collects user data to help the client to determine which sport to be added next
 
-<p style="float:left">
-  <img src="./pic/customer_schedule_entry.png" style="margin: 20px; height:400px;" />
-  <img src="./pic/customer_date_entry.png" style="margin: 20px; height:400px;" />
-  <img src="./pic/customer_time_entry.png" style="margin: 20px; height:400px;" />
+<p>
+  <img src="./pic/customer_schedule_entry.png" margin="20px" height="400px" float="left" />
+  <img src="./pic/customer_date_entry.png" margin="20px" height="400px" float="left" />
+  <img src="./pic/customer_time_entry.png" margin="20px" height="400px" float="left" />
 </p>
 
 * Customer choose date(with or without calender), start time(end time auto generated), address(use current location/enter manually)
