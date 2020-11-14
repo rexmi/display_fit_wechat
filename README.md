@@ -30,14 +30,14 @@
 
 * customer view of the appointments list
 
-<img src="./pic/admin_employee_interface.png" style="float: left; margin: 20px; height:400px;" />
+<img src="./pic/admin_employee_interface.png" float="left" margin="20px" height="400px" />
 
 * admin can manage current employee, suspend/activate employee working status
 * admin can create employee notes for internal use(with auto-generate timestamp)
 * change employee profile pic(override the original one that's captured from wechat)
 * inspect the employee's certificate/resume which was saved in Google Cloud Storage
 
-<img src="./pic/admin_applicant_interface.png" style="float: left; margin: 20px; height:400px;" />
+<img src="./pic/admin_applicant_interface.png" float="left" margin="20px" height="400px" />
 
 * admin can accept/reject applicant's application
 * admin can view the certificate/resume uploaded by the applicant
