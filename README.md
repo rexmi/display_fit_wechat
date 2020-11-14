@@ -40,7 +40,7 @@
 * inspect the employee's certificate/resume which was saved in Google Cloud Storage
 
 <kbd>
-  <img src="./pic/admin_applicant_interface.png" float="left" margin="20px" height="400px" />
+  <img src="./pic/applicant_management.png" float="left" margin="20px" height="400px" />
 </kbd>
 
 * admin can accept/reject applicant's application
