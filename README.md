@@ -2,6 +2,7 @@
 
 * PostgreSQL
 * API-only RoR app
+* Heroku backend server
 * Wechat Oauth
 * Google Cloud Service(storage, geo-location)
 * Vue-js front-end
