@@ -26,7 +26,7 @@
 * Address then geo-located using Google Cloud Service
 * database would then filter out all the available coach within 5km from user location
 
-<img src="./pic/customer_appointment_list.png" style="float: left; margin: 20px; height:400px;" />
+<img src="./pic/customer_appointment_list.png" float="left" margin="20px" height="400px" />
 
 * customer view of the appointments list
 
