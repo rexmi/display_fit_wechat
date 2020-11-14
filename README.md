@@ -6,6 +6,7 @@
 * Wechat Oauth
 * Google Cloud Service(storage, geo-location)
 * Vue-js front-end
+* 3rd party payment processing(OTT Pay)
 
 <img src="./pic/designer_homepage.png" alt="Markdown Monster icon" style="float: left; margin: 20px; height:400px;" />
 ## index page of created by designer
