@@ -17,9 +17,9 @@
 * the other 7 sports would trigger a ballot event to collects user data to help the client to determine which sport to be added next
 
 <p float="left">
-  <img src="./pic/customer_schedule_entry.png" margin="20px" width="150px" />
-  <img src="./pic/customer_date_entry.png" margin="20px" width="150px" />
-  <img src="./pic/customer_time_entry.png" margin="20px" width="150px" />
+  <img src="./pic/customer_schedule_entry.jpg" margin="20px" width="150px" />
+  <img src="./pic/customer_date_entry.jpg" margin="20px" width="150px" />
+  <img src="./pic/customer_time_entry.jpg" margin="20px" width="150px" />
 </p>
 
 * Customer choose date(with or without calender), start time(end time auto generated), address(use current location/enter manually)
