@@ -8,7 +8,7 @@
 * Vue-js front-end
 * 3rd party payment processing(OTT Pay)
 
-<img src="./pic/designer_homepage.png" style="float: left; margin: 20px; height:400px;" />
+<img src="./pic/designer_homepage.png" style="float: left; margin: 20px; height:400px;">
 
 ## index page of created by designer
 
